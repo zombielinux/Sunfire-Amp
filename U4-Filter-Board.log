@@ -1,0 +1,21 @@
+Circuit: * Z:\home\will\Server\Documents\home\will\Projects\Sunfire-Subs\U4-Filter-Board.asc
+
+.OP point found by inspection.
+
+Date: Mon Sep 30 16:49:07 2019
+Total elapsed time: 0.609 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 114642
+traniter = 114642
+tranpoints = 36422
+accept = 23745
+rejected = 12677
+matrix size = 10
+fillins = 0
+solver = Normal
+Matrix Compiler1: 382 bytes object code size  0.4/0.2/[0.2]
+Matrix Compiler2: 686 bytes object code size  0.2/0.3/[0.1]
+
